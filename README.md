@@ -2,7 +2,7 @@
 
 <img width="870" height="345" alt="image" src="https://github.com/user-attachments/assets/19394ee8-fb5f-428c-8d00-bd9604861343" />
 
-Building ML models that can predict survived of titanic passenger using the classic Titanic dataset.
+Building ML models that can predict survived titanic passengers  using the classic Titanic dataset.
 
 The data consists of demographic and traveling information of 418 of the Titanic passengers, 
 Pclass: Passenger class (1 = 1st; 2 = 2nd; 3 = 3rd)
