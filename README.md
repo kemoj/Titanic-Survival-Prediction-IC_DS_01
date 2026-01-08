@@ -1,6 +1,6 @@
 # Titanic-Survival-Prediction-IC_DS_01
 
-<img width="970" height="545" alt="image" src="https://github.com/user-attachments/assets/19394ee8-fb5f-428c-8d00-bd9604861343" />
+<img width="570" height="345" alt="image" src="https://github.com/user-attachments/assets/19394ee8-fb5f-428c-8d00-bd9604861343" />
 
 Building ML models that can predict survived of titanic passenger using the classic Titanic dataset.
 
